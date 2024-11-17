@@ -11,7 +11,7 @@ const LoginPage = () => {
           width={173}
           height={39}
           alt="crmMaia"
-          className="mb-8"
+          className="mb-8 items-center flex"
         ></Image>
         <h1 className="mb-3 text-4xl font-bold">Bem Vindo</h1>
         <p className="text-muted-foreground mb-8">
